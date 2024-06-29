@@ -19,7 +19,7 @@ int main(){
     std::cout <<"\n";
     std::cout << "";
 
-    std::cout << "SETUP ENV FOR PYTHON";
+    std::cout << "SETUP VIRTUAL ENV FOR PYTHON";
     std::cout << "python3.12 -m venv venv"
     std::cout << "source venv/bin/activate"
     
