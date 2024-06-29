@@ -15,18 +15,23 @@ int main(){
     std::cout <<"\n";
 
 
-    std::cout  <<" Hello future me, how to compile this stuff? just g++ main.cpp -o <filename>" <<std::endl;
+    std::cout <<" Hello future me, how to compile this stuff? just g++ main.cpp -o <filename>" <<std::endl;
     std::cout <<"\n";
-    std::cout <<"\n";
-    std::cout <<"\n";
-    std::cout <<"\n";
+    std::cout << "";
+
+    std::cout << "SETUP ENV FOR PYTHON";
+    std::cout << "python3.12 -m venv venv"
+    std::cout << "source venv/bin/activate"
+    
+    
+    
     // add some random shit
 
     for (unsigned long long i = 1; i < 6008514751437ULL; i++){
             std::cout << "YES" <<std::endl; 
         
         for (unsigned long long y=1 ; y < 600851475143ULL; y++){
-            std::cout << "YES" <<std::endl; 
+            std::cout << "NO" <<std::endl; 
         }
     }
 
