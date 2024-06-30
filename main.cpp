@@ -24,7 +24,8 @@ int main(){
     std::cout << "source venv/bin/activate"
     
     
-    
+    //fish
+       //https://stackoverflow.com/questions/10956335/how-to-get-virtualenv-to-work-with-fish-shell
     // add some random shit
 
     for (unsigned long long i = 1; i < 6008514751437ULL; i++){
